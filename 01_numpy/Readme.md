@@ -2,3 +2,4 @@ SO i have rececntly been working on upscaling my coding abilities after realsing
 This folder contains my work with numpy where learnt basic numpy from Prierian Training and Josë Portilla on Udemy.
 I believe the course is called python for machine learning and data science, I highly recommend it for any beginners looking to upskill themselves in python.
 THE GOAL IS TO ONE DAY BE A QUANT/DATA SCIENTIST
+Also for anybody interested in testing themselves, I uploaded my original question bank. Feel free to use it to test yourself rather than coping my code.
